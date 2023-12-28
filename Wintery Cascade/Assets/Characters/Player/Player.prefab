@@ -131,7 +131,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   moveSpeed: 1
-  collisionOffset: 0.01
+  collisionOffset: 0.001
   movementFilter:
     useTriggers: 0
     useLayerMask: 0
